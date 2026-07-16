@@ -7,4 +7,4 @@ Data cleaning, EDA, and Power BI dashboard analyzing 51K+ Zomato restaurants in 
 
 *Note: Power BI (.pbix) file available on request due to GitHub file size limits.*
 ## Dashboard Preview
-![Zomato Dashboard]("C:\Users\shard\OneDrive\Pictures\Screenshots\Zomato_dashboard.png")
+![Zomato Dashboard](Zomato_dashboard.png)
